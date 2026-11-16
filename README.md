@@ -1,5 +1,5 @@
 # ChurnIQ 
-Customer Churn Intelligence Dashboard using Power BI. Its an interactive Power BI dashboard built to explore customer churn, identify patterns in customer behavior, and understand how churn affects revenue.
+ChurnIQ is a Customer Churn Intelligence Dashboard using Power BI. Its an interactive dashboard built to explore customer churn, identify patterns in customer behavior, and understand how churn affects revenue.
 
 The goal of this project was to go beyond simply showing how many customers leave. I wanted to understand which customer segments experience the highest churn and how those findings could help a business make better retention decisions.
 
