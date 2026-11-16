@@ -9,9 +9,14 @@ The goal of this project was to go beyond simply showing how many customers leav
 
 ![Executive Overview](screenshots/Executive%20Overview%20Screenshot.png)
 
+### Filters : Internet Service, Contract, Senior Citizen
+
+![Executive Overview](screenshots/Internet%20Service%20Slicer%20Screenshot.png)
+![Executive Overview](screenshots/Contract%20Slicer%20Screenshot.png)
+![Executive Overview](screenshots/Senior%20Citizen%20Filter%20Screenshot.png)
 ### Churn Deep Dive
 
-![Churn Deep Dive](screenshots/churn-deep-dive.png)
+![Executive Overview](screenshots/Churn%20Deep%20Dive%20Screenshot.png)
 
 ## Dataset
 
