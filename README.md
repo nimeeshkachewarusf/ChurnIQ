@@ -7,7 +7,7 @@ The goal of this project was to go beyond simply showing how many customers leav
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](screenshots/Executive%20Overview%20Screenshot.png)
 
 ### Churn Deep Dive
 
