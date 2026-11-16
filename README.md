@@ -70,7 +70,7 @@ I also learned how important it is to validate calculations and organize visuals
 
 ## Running the Dashboard
 
-1. Download `Customer-Churn-Intelligence.pbix` from this repository.
+1. Download "Customer-Churn-Intelligence.pbix" from this repository.
 2. Open the file using Power BI Desktop.
 3. Explore the Executive Overview and Churn Deep Dive pages.
 4. Use the slicers and decomposition tree to investigate churn across different customer segments.
